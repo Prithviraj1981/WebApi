@@ -1,7 +1,7 @@
 ---
 services: app-service\web,app-service
 platforms: dotnet
-author: cephalin
+author: cephalin.
 ---
 
 # ASP.NET Core API sample for Azure App Service
